@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Inter-Regular;
+  src: url('@/assets/fonts/Inter-Regular.ttf');
+}
+@font-face {
+  font-family: PlusJakartaSans-Bold;
+  src: url('@/assets/fonts/PlusJakartaSans-Bold.ttf');
+}
+* {
+  margin: unset;
+  padding: unset;
+  font-family: 'Inter-Regular', sans-serif;
+}
